@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 
+![](https://github-readme-stats.cyfan.top/api/top-langs/?username=tsuiwade)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsuiwade&label=Views&color=blue&style=plastic" alt="tsuiwade" /> </p>
 

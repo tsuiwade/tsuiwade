@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=tsuiwade&show_icons=true&theme=cobalt">
+<!--
 <a href="https://github.com/tsuiwade">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsuiwade&show_icons=true&theme=light&count_private=true" alt="Sahil's github stats"/>
 </a>
+-->

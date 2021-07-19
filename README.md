@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=tsuiwade&show_icons=true&theme=cobalt">
 
-<img src="https://github-profile-trophy.vercel.app/?username=azl397985856&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=tsuiwade&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
 <a href="https://github.com/tsuiwade">
